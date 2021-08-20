@@ -1,57 +1,55 @@
-Medicham-Mega @ Medichamite  
-Ability: Pure Power  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Bulk Up  
-- Drain Punch  
-- Zen Headbutt  
-- Ice Punch  
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Grassy Glide
+- Knock Off
+- Drain Punch
+- Drum Beating
 
-Heatran @ Leftovers  
-Ability: Flash Fire  
-EVs: 252 HP / 252 Def / 4 SpA  
-Bold Nature  
-IVs: 0 Atk  
-- Magma Storm  
-- Toxic  
-- Stealth Rock  
-- Protect  
+Mamoswine @ Choice Band
+Ability: Thick Fat
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Ice Shard
+- Earthquake
+- Icicle Crash
+- Knock Off
 
-Zapdos @ Heavy-Duty Boots  
-Ability: Static  
-EVs: 248 HP / 252 SpA / 8 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Roost  
-- Defog  
-- Discharge  
-- Hurricane  
+Vaporeon @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Scald
+- Ice Beam
+- Flip Turn
+- Wish
 
-Seismitoad @ Leftovers  
-Ability: Water Absorb  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-- Scald  
-- Earthquake  
-- Stealth Rock  
-- Knock Off  
+Volcarona @ Heavy-Duty Boots
+Ability: Flame Body
+EVs: 248 HP / 208 Def / 52 Spe
+Bold Nature
+IVs: 0 Atk
+- Fiery Dance
+- Bug Buzz
+- Quiver Dance
+- Roost
 
-Staraptor @ Heavy-Duty Boots  
-Ability: Reckless  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Brave Bird  
-- Double-Edge  
-- Roost  
-- U-turn  
+Weezing-Galar @ Black Sludge
+Ability: Levitate
+EVs: 148 HP / 4 Def / 212 SpA / 144 SpD
+Modest Nature
+IVs: 0 Atk
+- Flamethrower
+- Dazzling Gleam
+- Sludge Wave
+- Toxic Spikes
 
-Florges (F) @ Leftovers  
-Ability: Flower Veil  
-EVs: 252 HP / 4 SpA / 252 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Aromatherapy  
-- Wish  
-- Moonblast  
-- Toxic  
-
+Starmie @ Expert Belt
+Ability: Natural Cure
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Ice Beam
+- Hydro Pump
+- Rapid Spin
+- Psychic
